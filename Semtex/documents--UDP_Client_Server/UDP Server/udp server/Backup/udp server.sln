@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "udp server", "udp server\udp server.vcproj", "{8B2D151E-503A-4E94-AB5D-E00B5DDD0A83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B2D151E-503A-4E94-AB5D-E00B5DDD0A83}.Debug|Win32.ActiveCfg = Release|Win32
+		{8B2D151E-503A-4E94-AB5D-E00B5DDD0A83}.Debug|Win32.Build.0 = Release|Win32
+		{8B2D151E-503A-4E94-AB5D-E00B5DDD0A83}.Release|Win32.ActiveCfg = Release|Win32
+		{8B2D151E-503A-4E94-AB5D-E00B5DDD0A83}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
